@@ -1,0 +1,7 @@
+let  x  int= "1";let num int ;
+read
+;write{num};get(num,
+n1)let uu float;
+call hola();
+
+uu = 0.1
