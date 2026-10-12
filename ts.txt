@@ -1,0 +1,28 @@
+#1:
+* 'x'
++ tipo: 'entero'
++ despl: 0
+* 'num'
++ tipo: 'entero'
++ despl: 2
+* 'read'
++ tipo: 'entero'
++ despl: 4
+* 'write'
++ tipo: 'entero'
++ despl: 6
+* 'get'
++ tipo: 'entero'
++ despl: 8
+* 'n1'
++ tipo: 'entero'
++ despl: 10
+* 'uu'
++ tipo: 'real'
++ despl: 12
+* 'call'
++ tipo: 'entero'
++ despl: 14
+* 'hola'
++ tipo: 'entero'
++ despl: 16
